@@ -1,3 +1,5 @@
+// https://www.eolymp.com/az/problems/1658
+
 let n = 5;
 let a = 1;
 

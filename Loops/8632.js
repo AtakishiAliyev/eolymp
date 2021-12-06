@@ -1,3 +1,5 @@
+// https://www.eolymp.com/az/problems/8632
+
 let n = 2354;
 let count = 0;
 

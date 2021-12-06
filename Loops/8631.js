@@ -1,3 +1,5 @@
+// https://www.eolymp.com/az/problems/8631
+
 let n = 2354666;
 let max = 0;
 let count = 1;

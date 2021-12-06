@@ -1,3 +1,4 @@
+// https://www.eolymp.com/az/problems/2863
 let n = 12;
 
 for(let i = 1; i <= n; i++) {

@@ -1,3 +1,5 @@
+// https://www.eolymp.com/az/problems/8934
+
 let a = 3;
 let b = 7;
 let x = "";
