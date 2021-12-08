@@ -1,1 +1,0 @@
-// (8641)[// https://www.eolymp.com/az/problems/8533]
