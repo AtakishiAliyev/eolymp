@@ -1,4 +1,5 @@
 // https://www.eolymp.com/az/problems/8255
+
 let n = 3;
 let s = 25;
 

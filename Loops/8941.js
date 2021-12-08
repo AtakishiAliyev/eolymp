@@ -1,6 +1,5 @@
 // https://www.eolymp.com/az/problems/8941
 
-
 let a = 2;
 let b = 3;
 let x = 0;
