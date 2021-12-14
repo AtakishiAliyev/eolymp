@@ -3,3 +3,5 @@
 [If Else](https://github.com/atakishialiyev/eolymp/tree/master/If%20Else)
 
 [Loops](https://github.com/atakishialiyev/eolymp/tree/master/Loops)
+
+[Array](https://github.com/atakishialiyev/eolymp/tree/master/Array)
